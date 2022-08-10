@@ -1,0 +1,13 @@
+let lista = [
+    'Antonio',
+    35,
+    false,
+    new Date(1987, 04, 29),
+    let libro = {
+        titulo: "Los juegos del hambre",
+        author: 'Suzanne Collins',
+        fecha = new Date(2022, 04, 24),
+        url = 'https://www.amazon.es/Los-Juegos-del-Hambre/dp/841314485X/ref=asc_df_841314485X/?tag=googshopes-21&linkCode=df0&hvadid=593082295378&hvpos=&hvnetw=g&hvrand=4774723239971071926&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005496&hvtargid=pla-1651187019744&psc=1#detailBullets_feature_div'
+    },
+];
+
